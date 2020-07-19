@@ -1,5 +1,5 @@
 function removeCard(card) {
-    let delCard = document.getElementById(card);
+    var delCard = document.getElementById(card);
 
     delCard.parentNode.removeChild(delCard);
 }
@@ -14,3 +14,4 @@ function openPost(author, heading, content) {
             encodeURIComponent(content.innerText);
     window.location.href = url;
 }
+ 

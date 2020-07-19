@@ -190,3 +190,12 @@ main{
 .modal-style{
     height: 15px; width:350px;
 }
+
+.modal-yes-no{
+    font-size: 15px;
+}
+
+.modal-yes-no-conf
+{
+    margin-right: 200px;
+}
