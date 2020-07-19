@@ -1,10 +1,7 @@
 .head{
     height: 10vh;
-    /*background-color: #eae6e6;*/
     min-height: 7rem;
     position: relative;
-    /*margin: 10rem;*/
-
 }
 
 .head-logo{
